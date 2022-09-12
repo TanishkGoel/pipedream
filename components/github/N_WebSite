@@ -1,0 +1,147 @@
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/site.webmanifest">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> <!-- CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <!--icons-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script-->
+   
+    <title>NATRAJ APPLIANCES</title>
+</head>
+<body>
+    <header>
+          
+    </header>
+    <span>
+    <h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "The Feeling Of Natural Air Everywhere"</h2> </span>
+    <nav>
+        <a href="#">Home</a> &nbsp;&nbsp;&emsp;
+        <a href="#">About</a>&nbsp;&nbsp;&emsp;
+        <a href="#">Menu</a>&nbsp;&nbsp;&emsp;
+        <a href="#">Contact</a>&nbsp;&nbsp;&emsp;
+        <a href="#">Help</a>
+    </nav>
+<br>
+<h3> <p align="center"> MANUFACTURER OF CEILING FANS and much more...!! </p> </h3>    
+<br>  <br> 
+<h3>We deal in following items.</h3>
+    
+<main>
+    <section>
+        <h3> <span> CEILING FANS </span> </h3>
+        <img src="Cieling Fan SW.jpg" alt="This is an image" width="22%">
+        <img src="Ceiling Fan 2 SW.jpg" alt="This is an image" width="22%">
+        <img src="ceiling fan design 2.jpg" alt="This is an image" width="22%">
+        <img src="ceiling fan 2 edit.jpg" alt="This is an image" width="26%"> <br><br><br><br>
+        <img src="Cieling fan new 1.png" alt="This is an image" height="50%">
+        <img src="Cieling fan new 2 edit.png" alt="This is an image" height="50%">
+        <img src="Cieling fan new 3.png" alt="This is an image" height="50%">
+        <img src="Cieling fan new 4.png" alt="This is an image" height="50%">
+        <img src="Cieling fan new 5.png" alt="This is an image" height="50%">
+        <img src="Cieling fan new 6.png" alt="This is an image" height="51%" > <br><br><br><br>
+    </section>
+
+    <section>
+        <h3> <span> SMALL FANS 24" </span> </h3> <br><br>
+        <img src="Fusion.jpg" alt="This is an image" width="22%">
+        <img src="Cieling fan new 1 small.png" alt="This is an image" height="38%">
+        <img src="Cieling fan new 2 small.png" alt="This is an image" height="37%"> <br><br><br><br>
+    </section>
+
+    <section>
+        <h3> <span> HEATERS </span> </h3> <br><br>
+        <img src="Heater BDR.png" alt="This is an image" width="22%"> &emsp;&emsp;
+        <img src="Heater PDR.png" alt="This is an image" width="22%">
+        <img src="Sun Heater 2.jpg" alt="This is an image">
+        <img src="QUARTZ FR.png" alt="This is an image" height="50%"> <br><br><br><br>
+    </section>   
+    
+    <section>
+        <h3> <span> HEAT CONVECTOR </span> </h3> <br><br>
+        <img src="Heat Conv.png" alt="This is an image" > <br><br><br><br>
+    </section>
+    
+    <section>
+        <h3> <span> BULLET &nbsp;and &nbsp;PEDESTAL &nbsp;FANS </span> </h3> <br><br>
+        <img src="Farrata SW.jpg" alt="This is an image" width="180px" height="54%">
+        <img src="Pedestal SW.jpg" alt="This is an image" width="24%" > <br><br><br><br>
+    </section>
+    
+    <section>
+        <h3> <span> GEYSER </span> </h3> <br><br>
+        <img src="Geysers SW.jpg" alt="This is an image" width="25%"><br><br><br><br>
+    </section>
+    
+    <section>
+        <h3> <span> CURD PERCOLATOR </span> </h3> <br><br>
+        <img src="Electrical madhani.png" alt="This is an image"><br><br><br><br>
+    </section>
+
+    <section>
+        <h3> <span> VENTILATION&nbsp;FAN </span> </h3><br><br>
+        <img src="Ventilation Fan SW.png" alt="This is an image" height="45%"><br><br><br><br>
+    </section>
+    
+    <section>
+        <h3> <span> EXHAUST FAN </span> </h3> <br><br>
+        <img src="Exhaust fan.png" alt="This is an image" height="50%" ><br><br><br><br>
+    </section>
+
+    <section>
+        <h3> <span> TABLE&nbsp; FAN </span> </h3> <br><br>
+        <img src="AP Fan SW.jpg" alt="This is an image" width="25%">
+        <img src="table fan.jpg" alt="This is an image" width="25%">
+    </section>
+</main>
+<br><br>
+
+<div id="sidebar">
+    <br>
+    <h4> NATRAJ APPLIANCES EMAIL INFO </h4>
+<ul id="nav">
+    <li><a data-email="electricalsnatraj21@gmail.com" href="mailto: natrajelectricals21@gmail.com"> &emsp; NATRAJ SWADESHI </a></li>
+    <li><a data-email="stampingsrk21@gmail.com" href="mailto: rkstampings21@gmail.com"> &emsp; NATRAJ MALIWARA </a></li>
+</ul>
+<a href="https://www.google.com/search?q=natraj+appliances+rk+stampings+pvt+ltd&rlz=1C1CHBF_enIN916IN916&sxsrf=APq-WBv-TRaYQRqqOEQd3zMw1XvZR8AjYQ%3A1643727035469&ei=u0j5YbGbHJ-P4-EPzfOFiAI&oq=natraj+appliances+rk+stampings&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAE6BwgAEEcQsAM6CggAEEcQsAMQyQM6BggAEBYQHjoHCCEQChCgAUoECEEYAEoECEYYAFCHC1iVVWCKZ2gBcAJ4AIAB2QGIAcUSkgEFMC45LjSYAQCgAQHIAQjAAQE&sclient=gws-wiz" target="_blank" > Click here to know more about >>> "NATRAJ APPLIANCES"</a>
+<br> <br><br>
+</div>
+    <p>SANJAY GOEL</p>
+    <img id="box" src="user.png" alt="Owner's image" height="100px" width="100px">
+    <h4> Our Founder </h4>
+</div> 
+ 
+<hr>
+<div id="RO">
+    <h4 style="text-align: center;">REGISTERED OFFICE ( MANUFACTURER / SELLER )</h4>
+    <p style="text-align:center;">
+    NATRAJ APPLIANCES LIMITED: <br>
+    2nd E-109 Maliwara Chowk , Kureshi Market, Ghaziabad-201001 .
+    </p>
+</div>
+<footer2>
+    <p> &emsp; Follow Us !! 
+    &emsp;&emsp; <i class="fa fa-facebook-square"></i>
+    &nbsp;<i class="fa fa-instagram"></i>
+    &nbsp;<i class="fa fa-google"></i>
+    &nbsp;<i class="fa fa-twitter"></i>
+    &nbsp;<i class="fa fa-youtube"></i> 
+    </p>
+</footer2>
+
+<footer>
+    <a href="#">Home</a> &nbsp;&nbsp;&nbsp;
+    <a href="#">Next Page</a> &nbsp;&nbsp;&nbsp;
+    <a href="#">About</a> &nbsp;&nbsp;&nbsp;
+    <a href="#">Contact</a> &nbsp;&nbsp;&nbsp;
+    <a href="#">Help</a> &nbsp;&nbsp;&nbsp;
+    <a class="copyright" href="#">&copy; 2022 | NATRAJ</a>
+</footer>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+</body>
+    
+</html>    
